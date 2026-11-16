@@ -1,8 +1,6 @@
 ---
 name: shortcuts
 description: Apply predefined prompt shortcuts to control how tasks are handled.
-applyTo: "**"
-user-invocable: false
 ---
 
 # Shortcuts
